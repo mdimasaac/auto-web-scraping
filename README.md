@@ -1,4 +1,4 @@
-# auto-web-scraping: how to open the files
+# auto-web-scraping: how to run the script
 
 1. Download the Jupyter Notebook File "Trader Joe's.ipynb"
 2. Download the chromedriver.exe
