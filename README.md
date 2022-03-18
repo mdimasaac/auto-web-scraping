@@ -9,3 +9,4 @@
 7. The work runs for a few while. It ends with creating a csv file as well as an excel file. If you see these 2 files, the work's done
 8. In case something's not working, chances are you need to install some stuff to make the script work. see the first 9 lines
 9. For job offer and other questions, email me at: mdimasaac@hotmail.com
+
